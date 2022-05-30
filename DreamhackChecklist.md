@@ -9,6 +9,7 @@
 * Mouse
 * Keyboard
 * XBox Controller
+* External Hard Drive (with games you wanna play installed)
 * Headset/Speakers
 * 50FT CAT5 Cable
 * Powerstrip 5 Port
@@ -27,3 +28,12 @@
 * Sleeping Bag/Pillow (for napping)
 * Ice Chest/Small Fridge
 * Snacks
+
+## Games to Have Installed
+
+* Destiny 2
+* Division 2
+* Overwatch
+* Monster Hunter World
+* Monster Hunter Rise
+* Tiny Tina's Wonderland
