@@ -6,6 +6,7 @@
 * Computer/Laptop Power Cable
 * Monitor
 * Monitor Power Cable
+* HDMI/DP Cable
 * Mouse
 * Keyboard
 * XBox Controller
